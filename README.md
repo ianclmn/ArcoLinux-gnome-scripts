@@ -1,6 +1,6 @@
-# idc
-ArcoLinux instalation scripts.
-Author	:	Erik Dubois
+
+# ArcoLinux Gnome instalation scripts.
+#Author	:	Erik Dubois
 
 Use these scripts to install the ArcoLinuxD Gnome destop 
 
